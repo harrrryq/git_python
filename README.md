@@ -1,6 +1,7 @@
 # Agenda:
 yoyaku - my first python script, to check the clinic room availability.
 
+# DeleteHistory
 ##########################
 -- Remove the history from 
 rm -rf .git
