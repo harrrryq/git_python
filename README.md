@@ -1,3 +1,6 @@
+>>> Agenda:
+>>> yoyaku - my first python script, to check the clinic room availability.
+
 ##########################
 -- Remove the history from 
 rm -rf .git
@@ -11,7 +14,3 @@ git commit -m "Initial commit"
 git remote add origin git@github.com:<YOUR ACCOUNT>/<YOUR REPOS>.git
 git push -u --force origin master
 ##########################
-
-
->>> Agenda:
->>> yoyaku - my first python script, to check the clinic room availability.
